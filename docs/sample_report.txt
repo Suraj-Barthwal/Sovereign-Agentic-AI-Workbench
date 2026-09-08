@@ -1,0 +1,7 @@
+MRPL Machine Maintenance Report - Unit 4
+
+Unit 4 underwent scheduled maintenance on the compressor assembly.
+The inspection found minor wear on bearing B-12, which was replaced.
+Oil pressure readings were within the normal operating range of 40-60 PSI.
+No abnormal vibration was detected during the test run.
+Next scheduled maintenance is due in 90 days.
